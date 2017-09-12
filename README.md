@@ -42,7 +42,7 @@ One time only:
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
  * Submit Zotero file with semester's notes  
-
+@@!!!!!
 ## Week-by-week
 
 <A HREF="#unit1">Unit 1: Introduction</A>

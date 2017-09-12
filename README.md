@@ -1,3 +1,6 @@
+# This is a practice forked from Charles' repo
+
+
 # Core Methods in Educational Data Mining: Syllabus
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)

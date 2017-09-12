@@ -1,6 +1,7 @@
 # Core Methods in Educational Data Mining: Syllabus 
 
 ## BEST CLASS EVA!!!!
+@@@@@!!!!!
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d
@@ -42,7 +43,7 @@ One time only:
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
  * Submit Zotero file with semester's notes  
-
+@@!!!!!
 ## Week-by-week
 
 <A HREF="#unit1">Unit 1: Introduction</A>

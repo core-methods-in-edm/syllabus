@@ -35,7 +35,7 @@ Weekly:
  * Maintain documentation of work (Github, R Markdown, Zotero)
 
 One time only:
- * Ask one question on Stack Overflow
+ * Optional:  ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each

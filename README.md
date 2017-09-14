@@ -108,7 +108,7 @@ Read:
 
  * Be able to perform a data tidying workflow
 
-### Tasks to be completed:
+### Tasks to be start:
 
 Read:
 * [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)

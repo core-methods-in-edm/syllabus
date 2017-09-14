@@ -13,7 +13,7 @@
 
 The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
-## Course Goals
+## Course Goals... YEAH GOALS!
 
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data mining in education. By the end of the course students should:
 

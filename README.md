@@ -368,7 +368,7 @@ Watch:
 
 ## Class 29 - Rate video presentations (12/14/17)
 
-## Class 30 - Rate video presentations (12/19/17)
+## Class 30 - Rate video presentations (12/19/17) ：）
 
 
 

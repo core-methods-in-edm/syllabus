@@ -78,6 +78,7 @@ Read/watch:
 
 * Be familiar with a range of data sources, formats and extraction processes
 * Be familiar with R & Github & markdown
+* Watch GOT in class
 
 ### Tasks to be completed:
 

@@ -203,7 +203,7 @@ Read:
 * [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
 
 ## Class 15 - Clustering (10/26/17)
-
+## test 
 ### Learning Objectives:
 
  * Create a suitable data structure and perform clustering on a sample

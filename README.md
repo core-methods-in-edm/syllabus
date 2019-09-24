@@ -82,7 +82,7 @@ Read chapter 1-3:
 
 #### Due: Assignment 1 - Set up
 
-## Class 3 - Data Sources (9/12/18)
+## Class 3 - Data Sources (9/12/19)
 
 * Be familiar with a range of data sources, formats and extraction processes
 * Be familiar with R & Github & markdown

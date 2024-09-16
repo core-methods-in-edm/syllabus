@@ -1,4 +1,5 @@
 # Core Methods in Educational Data Mining: Syllabus 
+# Jie Chen, Sept. 10th, 2019
 
 Introduction class - Yay! Best class eva!
 
